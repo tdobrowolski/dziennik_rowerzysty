@@ -1,7 +1,7 @@
 # Wstepna specyfikacja systemu
-Projekt na język skryptowy w Pythonie
+###Projekt na język skryptowy w Pythonie
 
-Dziennik rowerzysty
+###Dziennik rowerzysty
 
 Tobiasz Dobrowolski
 
