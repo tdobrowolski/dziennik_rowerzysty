@@ -10,6 +10,7 @@ Strona aktualności jest miejscem w którym pojawia się użytkownik przy urucho
 - Karta "Witaj!" - Przedstawia wybrany cel oraz jego postęp wraz z ikoną.
 - Karta "Porady" - Wyświetla jedną, losową poradę z 20.
 - Karta "Ostatni trening" - Pokazuje dane ostatniego treningu.
+
 ![GitHub Logo](/images/interface1c.png)
 
 Mój dziennik - 
