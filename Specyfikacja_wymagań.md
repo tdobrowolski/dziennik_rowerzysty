@@ -4,7 +4,7 @@
 ####1. Wstęp
 Podstawowym celem aplikacji jest zapisywanie, przetrzymywanie, obliczanie oraz wyświetlanie danych powiązanych z jazdą na rowerze. Program składa się z 4 odzielnych sekcji do których dostać się można przez górne menu. Kliknięcie w interesujący użytkownika tytuł sekcji przenosi go na odpowiednią stronę.
 
-- Aktualności - Sekcja domyślna
+Aktualności - Sekcja domyślna
 Strona aktualności jest miejscem w którym pojawia się użytkownik przy uruchomieniu aplikacji. Składa się z 3 kart, dwóch małych i jednej większej.
 
 Karta "Witaj!" - Przedstawia wybrany cel oraz jego postęp wraz z ikoną.
