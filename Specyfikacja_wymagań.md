@@ -44,7 +44,7 @@ Dostępne cele:
 - Popraw kondycję
 - Popraw samopoczucie
 
-<img src="images/ikona3.png" width="170">   <img src="images/ikona2.png" width="170">   <img src="images/ikona1.png" width="170">
+<img src="images/ikona3.png" width="170">        <img src="images/ikona2.png" width="170">        <img src="images/ikona1.png" width="170">
 
 ####2. Opis programu
 Interfejs systemu jest utrzymany w zmodyfikowanym stylu Google Material Design. Styl różni się od wytycznych Google brakiem cieni oraz brakiem zaokrąglonych rogów kart. Przewodnim kolorem interfejsu jest niebieski. Zastosowanie stylu Material wpływa pozytywnie na czytelność programu oraz daje możliwość łatwego przeportowania systemu na tablety z systemem Android. Biblioteka użyta do stworzenia interfejsu to Tkinter. Program działa w rozdzielczości 800x600 w okienku. Zapobiega to "rozjeżdżaniu się" interfejsu. Dane użytkownika przetrzymywane są w bazie danych. Program pobiera z niej potrzebne wartości do obliczania kolejnych oraz zapisuje tam te, które już przetworzył. Nie istnieją żadne ograniczenia nałożone na grupę docelową aplikacji, z programu może korzystać każdy. UI/UX zostało zaprojektowane tak aby każdy mógł w szybki i przystępny sposób dotrzeć do interesujących go danych.
