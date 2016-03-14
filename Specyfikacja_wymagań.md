@@ -43,7 +43,7 @@ Dostępne cele:
 - Popraw sylwetkę
 - Popraw kondycję
 - Popraw samopoczucie
-- 
+
 <img src="images/ikona3.png" width="200"><img src="images/ikona2.png" width="200"><img src="images/ikona1.png" width="200">
 
 ####2. Opis programu
