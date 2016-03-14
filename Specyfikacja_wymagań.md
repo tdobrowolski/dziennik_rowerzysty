@@ -11,19 +11,19 @@ Karta "Witaj!" - Przedstawia wybrany cel oraz jego postęp wraz z ikoną.
 Karta "Porady" - Wyświetla jedną, losową poradę z 20.
 Karta "Ostatni trening" - Pokazuje dane ostatniego treningu.
 
-- Mój dziennik
+- Mój dziennik - 
 Miejsce w którym użytkownik może przeglądać i dodawać treningi. Może on również podglądnać swoje postępy.
 
 Karta "Moje treningi" - Lista zapisanych treningów, po kliknięciu w wybraną aktywność pojawi się okno ze szczegółami na jego temat. W dolnym, prawym rogu karty widnieje przycisk FAB (Floating Action Button), który umożliwia dodanie nowego treningu. Po jego wciśnięciu pojawi się okno z pustymi polami do uzupełnienia.
 Karta "Postęp" - Wykaz danych pokazujących postęp użytkownika do osiągnięcia wybranego celu. Pod kartą widnieje pasek postępu z tekstem informującym użytkownika czy jest na dobrej drodze do wykonania celu. Program przewiduje czy tempo osiagania kolejnych postępów jest odpowiednie.
 
-- Moje dane
+- Moje dane - 
 Sekcja wyświetlająca wszystkie dane jakie użytkownik wpisał oraz dodatkowe dane które program oblicza.
 
 Karta "Wpisane dane" - Dane wpisane przez użytkownika w sekcji Ustawienia
 Karta "Obliczone dane" - Dane obliczone przez program na podstawie wpisanych danych. Użytkownik może tu zaspokoić swoją ciekawość i dowiedzieć się jak pracował do tej pory.
 
-- Ustawienia
+- Ustawienia - 
 Sekcja umożliwiająca wpisanie danych użytkownika oraz wyzerowanie wszystkich wpisanych i obliczonych danych.
 
 Karta "Moje dane" - Umożliwia wpisanie danych lub ich poprawę. Można wpisać tylko jedną wartość w wybranym miejscu a tylko ona zostanie zmieniona. Można również usunąć wszystkie dane przyciskiem "Wyzeruj dane".
