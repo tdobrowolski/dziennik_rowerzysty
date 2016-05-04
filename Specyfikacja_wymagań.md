@@ -42,7 +42,7 @@ Program umożliwia wybranie jednego z 3 celów. Jego wybór ma wpływ na wymagan
 Dostępne cele:
 - Popraw sylwetkę
 - Popraw kondycję
-- Popraw samopoczucie
+- Popraw nastroj
 
 <img src="images/ikona3.png" width="170">        <img src="images/ikona2.png" width="170">        <img src="images/ikona1.png" width="170">
 
