@@ -1,36 +1,15 @@
-# Wstepna specyfikacja systemu
-###Projekt na język skryptowy w Pythonie
+<p align="center">
+  <img src="images/logo.png" width="220" title="logo">
+</p>
 
-####Dziennik rowerzysty
+# Aero - Dziennik rowerzysty
 
-####Tobiasz Dobrowolski
+Program umożliwia dokumentowanie wyników końcowych treningów. Podstawowym zadaniem aplikacji jest zapisywanie, przetrzymywanie i wyświetlanie danych związanych z jazdą na rowerze. Program ponadto umożliwia wybranie jednego z trzech dostępnych celi których osiąganie krok po kroku jest nagradzane przez specjalne odznaki - osiągnięcia. Program umożliwia wpisanie danych takich jak dystans, czas trwania treningu, samopoczucie, datę, warunki atmosferyczne oraz dowolne notatki. Aplikacja na podstawie podanych danych oblicza liczbę spalonych kalorii oraz średnią prędkość użytkownika. Aby spersonalizować program użytkownik poproszony jst o wpisanie swoich danych w sekcji Ustawienia. Na podstawie takich danych jak wzrost, wiek, płeć, waga program jest w stanie obliczyć spalone kalorie.
 
-<img src="images/logo.png" width="200">
+Program działa na macOS oraz Windows. Został stworzony w języku Python.
+Jest to mój pierwszy program z UI.
 
-Program ma umożliwiać dokumentowanie wyników końcowych treningów. Podstawowym zadaniem aplikacji będzie zapisywanie, przetrzymywanie i wyświetlanie danych związanych z jeżdżeniem na rowerze. Program ponadto ma umożliwiać wybranie jednego z trzech dostępnych celi których osiąganie krok po kroku będzie nagradzane poprzez specjalne odznaki - osiągnięcia. Program umożliwi wpisanie danych takich jak dystans, czas trwania treningu, samopoczucie, datę, warunki atmosferyczne oraz dowolne notatki. Aplikacja na podstawie podanych danych obliczy liczbę spalonych kalorii oraz średnią prędkość użytkownika. Aby spersonalizować program użytkownik poproszony zostanie o wpisanie swoich danych w sekcji Ustawienia. Na podstawie takich danych jak wzrost, wiek, płeć, waga program będzie w stanie obliczyć spalone kalorie.
+### Pobieranie
 
-##Przykładowa, wstępna karta treningu
-
-22.02.2016                   17:00
-
-Dystans: 7,56 km
-
-Czas: 0g 24m 26s
-
-Kalorie: 241 kcal
-
-Średnia prędkość: 18,24 km/s
-
-Samopoczucie: Bardzo dobre
-
-Warunki atmosferyczne: Pogodnie
-
-Notatki: Brak
-
-##Wstępny interfejs graficzny programu (wersja czarno-biała)
-
-![GitHub Logo](/images/interface1.png)
-
-##Dodatkowe informacje i założenia
-
-Obecna wersja programu działa w rozdzielczości 800x600, w okienku którego proporcje nie da się zmieniać. Interfejs programu powstaje w oparciu o bibliotekę Tkinter. Do ukończenia projektu potrzebne będzie zaimplementowanie bazy danych która będzie przetrzymywać dane treningów i dane użytkownika.
+Program dostępny jest do pobrania na stronie:
+<a>http://panoramx.ift.uni.wroc.pl/~tdobrowolski/<a/>
